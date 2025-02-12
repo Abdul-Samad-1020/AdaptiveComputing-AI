@@ -1,7 +1,7 @@
 
 
 # AdaptiveComputing-AI 🚀  
-*AI-Powered Accessibility Mapping & Assistance System for Disabled Persons*  
+*AI for Early Detection of Neurological Disorders (e.g., Alzheimer’s, Parkinson’s)*  
 
 ## 📌 Overview  
 AdaptiveComputing-AI is an AI-driven system designed to improve accessibility for disabled individuals by providing intelligent mapping, navigation, and real-time assistance. This project integrates Machine Learning, Computer Vision, and NLP to create a smart and inclusive solution.  
